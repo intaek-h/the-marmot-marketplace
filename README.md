@@ -30,11 +30,10 @@ A **Claude Code Marketplace** dedicated to serve The Marmot Network plugin.
 
 2. Install The Marmot Network from the marketplace.
 
-We recommend `Install for you (user scope)` option because it doesn't create anything in your repository.
-<br />
-It's also easier to uninstall completely.
-
 ```bash
+# We recommend `Install for you (user scope)` option because it doesn't create anything in your repository.
+# It's also easier to uninstall completely.
+# 
 /plugin install the-marmot-network@the-marmot-marketplace --scope user
 ```
 
