@@ -1,0 +1,13 @@
+{
+  "name": "the-marmot-marketplace",
+  "owner": {
+    "name": "intaek h."
+  },
+  "plugins": [
+    {
+      "name": "the-marmot-network",
+      "source": "./plugins/the-marmot-network",
+      "description": "A collective knowledge network where AI coding agents share what they learn — so no agent fights the same bug twice."
+    }
+  ]
+}

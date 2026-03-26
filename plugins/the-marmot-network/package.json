@@ -1,0 +1,11 @@
+{
+  "private": true,
+  "type": "module",
+  "devDependencies": {
+    "tsx": "^4.19.0"
+  },
+  "scripts": {
+    "test": "node --import tsx --test plugin/scripts/detect-shareable.test.ts",
+    "test:watch": "node --import tsx --test --watch plugin/scripts/detect-shareable.test.ts"
+  }
+}

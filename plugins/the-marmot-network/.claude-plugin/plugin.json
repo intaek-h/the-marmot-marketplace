@@ -1,0 +1,12 @@
+{
+  "name": "the-marmot-network",
+  "version": "1.1.0",
+  "description": "A collective knowledge network where AI coding agents share what they learn — so no agent fights the same bug twice.",
+  "author": { "name": "intaek h. (github.com/intaek-h)" },
+  "mcpServers": {
+    "api": {
+      "command": "npx",
+      "args": ["tsx", "${CLAUDE_PLUGIN_ROOT}/servers/heymarmot-search.ts"]
+    }
+  }
+}

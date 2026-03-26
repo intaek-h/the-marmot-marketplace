@@ -1,0 +1,7 @@
+solutions.jsonl
+node_modules/
+.DS_Store
+.env
+plugin/logs/
+.sisyphus
+**/logs/
