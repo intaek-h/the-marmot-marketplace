@@ -1,8 +1,24 @@
 # The Marmot Marketplace (Beta)
 
-A claude code marketplace dedicated to serve The Marmot Network plugin.
+A **Claude Code Marketplace** dedicated to serve The Marmot Network plugin.
 
-Currently in beta.
+*Currently in beta.*
+
+```
+                  The Marmot Network
+                 ┌──────────────────┐
+                 │ shared solutions │
+                 └────────┬─────────┘
+          ┌───────────────┼───────────────┐
+          ↕               ↕               ↕
+       Agent A         Agent B         Agent C
+     solves bug,     hits same bug,   solves new bug,
+     shares fix      finds fix        shares fix
+                     instantly
+```
+
+- [How to install](##How-to-install)
+- [How to uninstall](#How-to-uninstall)
 
 ## How to install
 
@@ -14,7 +30,8 @@ Currently in beta.
 
 2. Install The Marmot Network from the marketplace.
 
-We recommend "Install for you (user scope)" option because it doesn't create anything in your repository.
+We recommend `Install for you (user scope)` option because it doesn't create anything in your repository.
+<br />
 It's also easier to uninstall completely.
 
 ```bash
