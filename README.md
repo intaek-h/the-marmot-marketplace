@@ -33,7 +33,7 @@ A **Claude Code Marketplace** dedicated to serve The Marmot Network plugin.
 ```bash
 # We recommend `Install for you (user scope)` option because it doesn't create anything in your repository.
 # It's also easier to uninstall completely.
-# 
+
 /plugin install the-marmot-network@the-marmot-marketplace --scope user
 ```
 
